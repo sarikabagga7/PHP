@@ -1,0 +1,44 @@
+body
+{
+	margin: 0;
+}
+
+aside
+{
+	background-color: yellow;
+	float: left;
+	width: 20%;
+    height: 100%;
+}
+
+article
+{
+background-color: #9370DB;
+	float: left;
+	width: 80%;
+    height: 100%;
+}
+
+header
+{
+	clear: both;
+  background-color: #87CEEB;
+}
+
+header img
+{
+	height: 100px;
+	vertical-align: middle;
+
+}
+article h1, p
+{
+	padding: 7px;
+}
+footer
+{
+	background-color: #8FBC8F;
+	text-align: right;
+	padding: 10px;
+	clear: both;
+}
